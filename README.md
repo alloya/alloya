@@ -9,7 +9,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am Yulia from Yoshkar-Ola, Russia and currently living in Belgrade, Serbia.
+I am Yulia from Yoshkar-Ola, Russia and currently living in Gijón, Spain.
 
 
 :computer: Junior frontend developer with experience in TypeScript, Angular, React, Sass, and Bootstrap.
